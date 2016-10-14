@@ -1,0 +1,14 @@
+#modal{
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background-color:rgba(#000000,0.75);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .modal-footer form{
+    display:inline-block;
+  }
+}
