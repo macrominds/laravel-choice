@@ -1,5 +1,6 @@
 {
     "name": "macrominds/laravel-choice",
+    "version": "0.1.1",
     "description": "A modal choice dialogue for laravel",
     "keywords": ["laravel", "modal", "choice", "dialogue"],
     "license": "MIT",
@@ -12,7 +13,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^7.0",
-        "illuminate/support": "5.3.*"
+        "illuminate/support": "5.*"
     },
     "autoload": {
         "psr-4": { "macrominds\\laravel\\choice\\": "src/" }
