@@ -10,7 +10,7 @@ The user has chosen to delete a person. That means that all upcoming events,
 hosted by this person, need to be canceled. But you don't want to cancel them
 silently. You want to be polite and ask the user first:
 
-[Screenshot of a modal choice dialogue implemented with macrominds/laravel-choice](http://www.macrominds.de/images/github/macrominds-laravel-choice.png)
+![Screenshot of a modal choice dialogue implemented with macrominds/laravel-choice](http://www.macrominds.de/images/github/macrominds-laravel-choice.png)
 
 Simply return the Choice where you would normally return the `redirect()` in your Controller.
   
