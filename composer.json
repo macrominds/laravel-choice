@@ -1,6 +1,6 @@
 {
     "name": "macrominds/laravel-choice",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A modal choice dialogue for laravel",
     "keywords": ["laravel", "modal", "choice", "dialogue"],
     "license": "MIT",
